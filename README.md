@@ -1,7 +1,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[OOP school library app\] ](#-OOPSCHOOLLIBRARY-)
+- [📖 Enumerable ](#Enumerable)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -16,7 +16,7 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [📝 License ](#-license-)
 
-# 📖 [Decode morse code] <a name="about-project"></a>
+# 📖 Enumerable <a id="Enumerable"></a>
 
 The Enumerable project typically involves implementing the Enumerable module's methods in a custom class.
 
@@ -113,12 +113,17 @@ Thats it now you can execute your program on terminal:)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- More methods for min, max, and sum functions
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-To add an [issue](https://github.com/MosDevx/Enumerable-Ruby/issues)
+To add an [issue](https://github.com/anbehindY/Enumerable/issues)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
